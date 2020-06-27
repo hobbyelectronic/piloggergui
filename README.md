@@ -7,6 +7,7 @@ http://electroshed.com/wordpress/pilogger/
 pilogger currently supports the following boards
 
 LM75 Temperature sensor http://electroshed.com/wordpress/temperature-sensor-for-the-raspberry-pi/
+
 AD7715 Thermocouple sensor http://homepage.eircom.net/~nigelbrooke/Electronics_Projects/Thermocouple_Monitor.html
 
 
